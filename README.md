@@ -1,52 +1,133 @@
-# Telegram Scraper v1.6 [Get Access to ALL FILES](https://github.com/AbirHasan2005/TelegramScraper?tab=readme-ov-file#support--pricing)
+<div align="center">
 
-A powerful, multi-account Telegram group member scraper and adder with encrypted session storage, automatic account rotation, and a rich terminal UI.
+# Telegram Scraper v1.6
+
+**A powerful, multi-account Telegram group member scraper &amp; adder** — with encrypted session storage, automatic account rotation, message broadcasting, and a rich terminal UI.
+
+<br/>
+
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-%2480%20USD-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://telegramscraper.shop/)
+&nbsp;
+[![Buy on Telegram](https://img.shields.io/badge/Buy%20on%20Telegram-%40AkibHridoy-2CA5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AkibHridoy)
+&nbsp;
+[![Screenshots and Demo](https://img.shields.io/badge/Screenshots%20%26%20Demo-View%20Online-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://telegramscraper.shop/)
+
+<br/>
+
+![Source Code](https://img.shields.io/badge/Source%20Code-Full%20%26%20Editable-229ED9?style=flat-square)
+![Access](https://img.shields.io/badge/Access-Lifetime-2CA5E4?style=flat-square)
+![Updates](https://img.shields.io/badge/Updates-Free%20Forever-229ED9?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Termux-555?style=flat-square)
+
+</div>
 
 ---
 
-## Features
+## <img src="assets/icons/whats-included.svg" width="24" height="24" alt="" /> What You Get
 
+Telegram Scraper is a complete, production-ready toolkit for **scraping group members, adding them to your groups, and broadcasting messages** — all from a clean terminal interface, across as many accounts as you need.
+
+This is a paid product. Your **one-time purchase of $80 USD** includes:
+
+- **Complete Python source code** — fully editable, no obfuscation
+- **Lifetime access** — buy once, use it forever
+- **Free future updates** — every new version at no extra cost
+- **Setup support** — help getting it running on your machine
+- **Cross-platform** — runs on Windows, macOS, Linux, and Termux (Android)
+
+<div align="center">
+
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-%2480%20USD-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://telegramscraper.shop/)
+&nbsp;
+[![Buy on Telegram](https://img.shields.io/badge/Buy%20on%20Telegram-%40AkibHridoy-2CA5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AkibHridoy)
+
+</div>
+
+---
+
+## <img src="assets/icons/features.svg" width="24" height="24" alt="" /> Features
+
+### Accounts &amp; Sessions
 - **Multi-Account Support** — Log in multiple Telegram accounts and rotate between them automatically
 - **3 Login Methods** — Phone number (OTP + 2FA), QR code scan, or Telegram Desktop TData import
+- **Session Encryption** — All session strings encrypted with Fernet (AES-128) using PBKDF2 key derivation
+- **Session Management** — List all sessions, test connectivity, and clean up inactive accounts
+
+### Scraping
 - **2 Scraping Modes** — Scrape from the visible members list, or extract hidden members from message history
+- **Checkpoint Resume** — Interrupted hidden-member scrapes can be resumed from where they left off
+
+### Adding &amp; Broadcasting
 - **2 Adding Modes** — Rush Adder (tracks progress by removing added members from CSV) or Calm Adder (keeps CSV intact)
 - **Message Broadcast** — Send a formatted DM to all scraped members from a Markdown file, with 30–60s delays and account rotation
-- **Session Encryption** — All session strings encrypted with Fernet (AES-128) using PBKDF2 key derivation
-- **FloodWait Handling** — Automatic wait with jitter for small delays; switches account on large delays (1hr+)
-- **Checkpoint Resume** — Interrupted hidden-member scrapes can be resumed from where they left off
-- **Account Cooldown Tracking** — Persistent cooldown tracking across sessions with automatic expiry
-- **Rich Terminal UI** — Progress bars, spinners, styled tables, and color-coded output
-- **Session Management** — List all sessions, test connectivity, and clean up inactive accounts
-- **Structured Logging** — Rotating file logs (never logs sensitive data like session strings)
-- **Atomic CSV Writes** — Data written to temp file first, then replaced — no corruption on crash
 
-[Get Access to ALL FILES](https://github.com/AbirHasan2005/TelegramScraper?tab=readme-ov-file#support--pricing)
+### Safety &amp; Reliability
+- **FloodWait Handling** — Automatic wait with jitter for small delays; switches account on large delays (1hr+)
+- **Account Cooldown Tracking** — Persistent cooldown tracking across sessions with automatic expiry
+- **Atomic CSV Writes** — Data written to temp file first, then replaced — no corruption on crash
+- **Structured Logging** — Rotating file logs (never logs sensitive data like session strings)
+- **Rich Terminal UI** — Progress bars, spinners, styled tables, and color-coded output
+
 ---
 
-## Prerequisites
+## <img src="assets/icons/buy.svg" width="24" height="24" alt="" /> How to Buy
+
+Getting the full tool takes about two minutes:
+
+1. **Open the store** — visit **[telegramscraper.shop](https://telegramscraper.shop/)**, or message **[@AkibHridoy on Telegram](https://t.me/AkibHridoy)** directly.
+2. **Confirm your order** — the price is **$80 USD, one-time**. It includes the complete Python source code, lifetime access, and all future updates.
+3. **Arrange payment** — payment is handled directly in the Telegram chat. Just say hello and you'll be guided through it.
+4. **Receive everything** — you get the full source code plus setup help so you're up and running fast.
+
+> **One-time payment. No subscription, no recurring fees** — pay once, own it for life.
+
+<div align="center">
+
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-%2480%20USD-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://telegramscraper.shop/)
+&nbsp;
+[![Buy on Telegram](https://img.shields.io/badge/Buy%20on%20Telegram-%40AkibHridoy-2CA5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AkibHridoy)
+
+</div>
+
+---
+
+## <img src="assets/icons/demo.svg" width="24" height="24" alt="" /> See It in Action
+
+Want to see the tool before you buy? Live screenshots and a full walkthrough are on the website:
+
+**[View screenshots and live demo at telegramscraper.shop](https://telegramscraper.shop/)**
+
+<!-- Embed screenshots here, e.g. <img src="assets/screenshots/main.png" width="80%" /> -->
+
+---
+
+## <img src="assets/icons/docs.svg" width="24" height="24" alt="" /> Documentation
+
+A full overview of what the tool does and how to use it. Expand any section below.
+
+<details>
+<summary><b>Prerequisites &amp; Installation</b></summary>
+
+### Prerequisites
 
 - **Python 3.8+**
 - **Git** (required to install the Pyrogram fork)
 - **Telegram API Credentials** (API_ID and API_HASH)
 
----
+### Installation
 
-## Installation
+#### 1. Get the project
 
-### 1. Get the project
-
-**If you have repo access:**
+After purchase you'll receive the full source. If you have repo access:
 ```bash
 git clone <repository-url>
 cd TelegramScraper
 ```
 
-**If you received a ZIP:**
-```
-Extract the ZIP to a folder and open a terminal there.
-```
+If you received a ZIP, extract it to a folder and open a terminal there.
 
-### 2. Install dependencies
+#### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -59,7 +140,7 @@ If TgCrypto fails to install, make sure you have a C compiler available:
 - **Linux/Termux:** `sudo apt install build-essential` (or `pkg install build-essential` on Termux)
 - **macOS:** `xcode-select --install`
 
-### 3. Get Telegram API credentials
+#### 3. Get Telegram API credentials
 
 1. Visit [https://my.telegram.org/apps](https://my.telegram.org/apps)
 2. Log in with your Telegram phone number
@@ -67,7 +148,7 @@ If TgCrypto fails to install, make sure you have a C compiler available:
 4. Fill in the app name (e.g., "MyApp") and any other required fields
 5. Copy your **API_ID** (a number) and **API_HASH** (a string)
 
-### 4. Create the `.env` file
+#### 4. Create the `.env` file
 
 Create a file named `.env` in the project root:
 
@@ -78,21 +159,22 @@ API_HASH=your_api_hash_here
 
 Replace the values with your actual credentials from step 3.
 
-### 5. Run
+#### 5. Run
 
 ```bash
 python main.py
 ```
 
----
+</details>
 
-## Quick Start
+<details>
+<summary><b>Quick Start</b></summary>
 
 When you launch the tool, you'll see the main menu:
 
 ```
 TelegramScraper v1.6
-ℹ 0 sessions loaded (check Manage Sessions for status)
+0 sessions loaded (check Manage Sessions for status)
 
 ┌─────────────────────┐
 │      Main Menu      │
@@ -115,9 +197,10 @@ TelegramScraper v1.6
 3. **Add** scraped members to a target group (Option 03)
 4. **Broadcast** a message to all scraped members (Option 04)
 
----
+</details>
 
-## Usage Guide
+<details>
+<summary><b>Usage Guide — all menu options</b></summary>
 
 ### Option 01 — Login Telegram Account
 
@@ -192,8 +275,6 @@ Scrapes members from **message history and mentions** — useful when the member
 5. Results saved to `members.csv`
 
 **Best for:** Private groups with hidden member lists, or when you want to capture active participants.
-
-[Get Access to ALL FILES](https://github.com/AbirHasan2005/TelegramScraper?tab=readme-ov-file#support--pricing)
 
 #### Scrape Non-Hidden Members
 
@@ -287,7 +368,7 @@ Send a formatted direct message to all scraped members in `members.csv`.
 
 > **Note:** The maximum message length is 4096 characters (after HTML conversion). Messages exceeding this limit will be rejected before sending.
 
-#### Delay & Rate Limiting
+#### Delay &amp; Rate Limiting
 
 - **30–60 seconds** random delay between each message (mimics human behavior)
 - **Small FloodWait (< 1 hour):** Waits with jitter, then retries
@@ -359,9 +440,10 @@ Finds sessions with a non-Active status (banned, deactivated, auth key invalid, 
 
 Displays tool information: name, version, developer, and contact details.
 
----
+</details>
 
-## Project Structure
+<details>
+<summary><b>Project Structure</b></summary>
 
 ```
 TelegramScraper/
@@ -393,10 +475,10 @@ TelegramScraper/
 └── scrape_checkpoint.json   # Resume checkpoint (not in repo)
 ```
 
-[Get Access to ALL FILES](https://github.com/AbirHasan2005/TelegramScraper?tab=readme-ov-file#support--pricing)
----
+</details>
 
-## Security
+<details>
+<summary><b>Security</b></summary>
 
 - **Session Encryption:** All Telegram session strings are encrypted using Fernet (AES-128-CBC + HMAC-SHA256). The encryption key is derived from your password using PBKDF2 with 480,000 iterations and a random 16-byte salt.
 - **Local Storage Only:** All data (sessions, member lists, logs) is stored locally on your machine. The tool does not send data to any external server.
@@ -404,9 +486,10 @@ TelegramScraper/
 - **Credential Safety:** API credentials are loaded from `.env` which is excluded from version control via `.gitignore`.
 - **No Session Logging:** Session strings are never written to log files.
 
----
+</details>
 
-## Troubleshooting
+<details>
+<summary><b>Troubleshooting</b></summary>
 
 ### TgCrypto won't install
 
@@ -441,9 +524,23 @@ If you see decryption errors when testing sessions:
 - **Hidden scraping** extracts members from messages, so inactive members who never post or get mentioned won't be found.
 - Bots are automatically filtered out from results.
 
+</details>
+
 ---
 
-## FAQ
+## <img src="assets/icons/faq.svg" width="24" height="24" alt="" /> FAQ
+
+**What exactly do I get for $80?**
+The complete Python source code (fully editable), lifetime access, every future update for free, and setup support — a one-time payment, not a subscription.
+
+**How do I pay?**
+Message [@AkibHridoy on Telegram](https://t.me/AkibHridoy) (or use [telegramscraper.shop](https://telegramscraper.shop/)) and payment is arranged directly in the chat. You'll be walked through it.
+
+**Is it a one-time payment or a subscription?**
+One-time. Pay once and the tool — plus all future updates — is yours for life.
+
+**Do I get updates and support?**
+Yes. Future versions are free, and you get help getting the tool set up on your machine.
 
 **Can I run multiple instances at the same time?**
 No. Session files and CSV data are shared, so running multiple instances can cause conflicts and data corruption.
@@ -468,14 +565,17 @@ For hidden member scraping, progress is automatically saved to a checkpoint file
 
 ---
 
-## Support & Pricing
+<div align="center">
 
-| | |
-|---|---|
-| **Price** | 80 USD |
-| **Purchase & Support** | [Contact on Telegram](https://t.me/AkibHridoy) |
+### Ready to get started?
 
-You will get full Python source code access for lifetime & future updates.
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-%2480%20USD-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://telegramscraper.shop/)
+&nbsp;
+[![Buy on Telegram](https://img.shields.io/badge/Buy%20on%20Telegram-%40AkibHridoy-2CA5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AkibHridoy)
+
+</div>
+
+---
 
 ## Sponsored by Swiftproxy
 
@@ -483,8 +583,12 @@ You will get full Python source code access for lifetime & future updates.
 
 **[Swiftproxy](https://www.swiftproxy.net/?ref=TelegramScraper)** — Premium residential proxies built for Telegram automation and data collection. Supports SOCKS5 and HTTP proxies, static and rotating residential IPs, sticky sessions, global locations, low-latency connections, and API access for proxy management. Ideal for Telegram scraping, account management, and large-scale automation workflows.
 
-### Developer
+---
+
+## Developer
 
 **Abir Hasan**
 - GitHub: [github.com/AbirHasan2005](https://github.com/AbirHasan2005)
 - Telegram: [t.me/AbirHasan2005](https://t.me/AbirHasan2005)
+
+> For purchases and support, contact **[@AkibHridoy](https://t.me/AkibHridoy)** or visit **[telegramscraper.shop](https://telegramscraper.shop/)**.
