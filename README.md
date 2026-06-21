@@ -77,6 +77,61 @@ This is a paid product. Your **one-time purchase of $80 USD** includes:
 
 ---
 
+## ⭐ Reviews from Clients
+
+Rated **4.8 / 5** across **640+ buyers**. Here's what people say after putting Telegram Scraper to work:
+
+<div align="center">
+
+<a href="https://telegramscraper.shop/" title="Read customer reviews on telegramscraper.shop">
+<img src="https://telegramscraper.shop/assets/clients/dae.webp" height="44" alt="DAE EUROPE" />
+<img src="https://telegramscraper.shop/assets/clients/light.webp" height="44" alt="Light | Airaa" />
+<img src="https://telegramscraper.shop/assets/clients/cizn.webp" height="44" alt="Cinz" />
+<img src="https://telegramscraper.shop/assets/clients/naka.webp" height="44" alt="NAKAMA" />
+<img src="https://telegramscraper.shop/assets/clients/el.webp" height="44" alt="El" />
+<img src="https://telegramscraper.shop/assets/clients/ivan.webp" height="44" alt="Ivan" />
+<img src="https://telegramscraper.shop/assets/clients/chinise.webp" height="44" alt="A satisfied buyer" />
+<img src="https://telegramscraper.shop/assets/clients/tovar.webp" height="44" alt="tovarishch" />
+<img src="https://telegramscraper.shop/assets/clients/blood.webp" height="44" alt="Blood007" />
+<img src="https://telegramscraper.shop/assets/clients/abc.webp" height="44" alt="ABC - Droll" />
+<img src="https://telegramscraper.shop/assets/clients/sall.webp" height="44" alt="Sallem" />
+<img src="https://telegramscraper.shop/assets/clients/cry.webp" height="44" alt="Cryptowiz" />
+</a>
+
+<sub>Verified buyers — see their proof screenshots on the <a href="https://telegramscraper.shop/">website</a>.</sub>
+
+</div>
+
+<br/>
+
+> ⭐⭐⭐⭐⭐ &nbsp; "Best Telegram scraper I have used. Setup was straightforward and support was responsive." — **Cinz**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "Hidden member recovery is a game-changer. Nothing else on the market does this." — **El**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "Works exactly as described. Reliable tool for community migration." — **DAE EUROPE**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "Fast delivery and clean CSV output. Highly recommended for Telegram research." — **Light | Airaa**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "Reliable across multiple accounts. FloodWait handling works as advertised." — **NAKAMA**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "Runs cleanly on VPS and Android Termux. Great value at $80." — **Ivan**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "One-time price, lifetime value. Solid purchase with no recurring fees." — **Inereal**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "Saved hours of manual work. Great value, easy to integrate with existing CRM workflows." — **Jastin**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "AES session encryption and local-only operation made the security review easy. Clean product." — **Anton**
+
+> ⭐⭐⭐⭐⭐ &nbsp; "Support was responsive and the tool delivered as promised. Five stars." — **Pittow**
+
+<div align="center">
+
+**[See more reviews and proof screenshots → telegramscraper.shop](https://telegramscraper.shop/)**
+
+</div>
+
+---
+
 ## <img src="assets/icons/buy.svg" width="24" height="24" alt="" /> How to Buy
 
 Getting the full tool takes about two minutes:
